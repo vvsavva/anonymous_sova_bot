@@ -14,9 +14,12 @@ First of all we need to receive an access token.
 
 ```
 
-pip install yoomoney --upgrade
+pip install -r requirements.txt
 
 ```
+Must be executed in the project folder
+
+Необходимо выполнять в папке с проектом
 
 Installing the yoomoney library
 
