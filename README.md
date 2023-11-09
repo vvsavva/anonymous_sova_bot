@@ -63,5 +63,6 @@ yoomoney, channel name from the link where the bot must be located
 yoomoney, название канала из  ссылки где обязательно должен состоять бот
 
 
-![281540387-f1491d7c-9227-46b6-8082-245c2019cf00](https://github.com/vvsavva/anonymous_sova_bot/assets/63454532/654a4e9e-1b4a-45fc-a792-06ef8229405a)
+![281560092-0528a1d2-8983-4046-b180-73940726a8b7](https://github.com/vvsavva/anonymous_sova_bot/assets/63454532/d9a273cd-47ce-4ec4-b55f-ec9cea13311f)
+
 
