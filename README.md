@@ -62,5 +62,6 @@ yoomoney, channel name from the link where the bot must be located
 Далее заполнить платежный токен, название базы данных название.bd, номер кошелька
 yoomoney, название канала из  ссылки где обязательно должен состоять бот
 
-![image](https://github.com/vsavva/anonymous_sova_bot/assets/67558876/0528a1d2-8983-4046-b180-73940726a8b7)
+
+![281540387-f1491d7c-9227-46b6-8082-245c2019cf00](https://github.com/vvsavva/anonymous_sova_bot/assets/63454532/654a4e9e-1b4a-45fc-a792-06ef8229405a)
 
