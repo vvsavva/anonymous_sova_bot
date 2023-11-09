@@ -1,5 +1,5 @@
 # anonymous_sova_bot
-[Anonymous telegram bot](https://t.me/anonymous_sova_bot) for communication by [vvsavva](@vvsavva)
+[Anonymous telegram bot](https://t.me/anonymous_sova_bot) for communication by [vvsavva](https:\\t.me\@vvsavva)
 
 [Анонимный телеграмм бот](https://t.me/anonymous_sova_bot) для общения
 ![281540387-f1491d7c-9227-46b6-8082-245c2019cf00](https://github.com/vvsavva/anonymous_sova_bot/assets/63454532/91a1ffff-afef-4e7c-b04d-ed1352a0991a)
